@@ -20,8 +20,7 @@ Python Backend developer. Обучаюсь в Школе программиро�
 
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=garanasht&theme=solarized_dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garanash)](https://github.com/garanash/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garanash&layout=compact)](https://github.com/Garanash/github-readme-stats)
 
 ### Технологии
 
@@ -39,9 +38,10 @@ Python Backend developer. Обучаюсь в Школе программиро�
 
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garanash&theme=solarized_dark)
+
 
 - 🔭 На данный момент я работаю над рядом проектов от тестирующей системы до трейдингового приложения  
 - 🌱 Учусь в Школе21 от сбера а так же на курсах повышения квалификации по нескольким ЯП
 - 👯 Хочу сотрудничать по ряду направлений с дальновидными компаниями
 - 📫 Связаться со мной можно через телеграм: @Garanash или по электронной почте: dolgov_am@mail.ru
-- ⚡ Fun fact: ...
