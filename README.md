@@ -46,12 +46,16 @@ Python Backend developer. Обучаюсь в Школе программиро�
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Garanash&theme=solarized_dark)
 
-### Проекты
+### Пет и учебные проекты
 
 | Название          | Описание                                               | Технологии |
 |-------------------|-------------------------------------------------------|-------------|
+| [SES](https://github.com/Garanash/Simple_economy_simulator) | Реализация простого экономического симулятора |  Python, Pygame, Sqlite3 |
+| [testcase for EM](https://github.com/Garanash/testcase-for-Effective-Mobile)| Тестовое задание для компании Effective Mobile| Python |
 | [3d_viewer](https://github.com/Garanash/3D_Viewer/tree/main) | Реализация приложения для просмотра 3D моделей | C++, OpenGl, Qt |
 | [Maze](https://github.com/Garanash/maze) | Реализация приложения для генерации лабиринтов и пещер| С++, Qt |
+| [Nastia helper](https://github.com/Garanash/Nastia-helper)| Реализация голосового помощника Настя | Python, Gttp, Googletrans |
+| [Учебные проекты UrbanUniversity](https://github.com/Garanash/UrbanUniversityPython)| Мои версии учебных проектов urban university| python, sqlite, iogram, django, flask, asyncio и др.|
 
 
 - 🔭 На данный момент я работаю над рядом проектов от тестирующей системы до трейдингового приложения  
