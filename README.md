@@ -56,6 +56,7 @@
 
 | Название          | Описание                                               | Технологии |
 |-------------------|-------------------------------------------------------|-------------|
+| [testcase_for_IPChain](https://github.com/Garanash/testcase-IPCHain) | Тестовое задание для компании IPChain | Python |
 | [testcase for EM](https://github.com/Garanash/testcase-for-Effective-Mobile)| Тестовое задание для компании Effective Mobile| Python, unittests |
 | [testcase for HiTalent](https://github.com/Garanash/testcase-for-Hitalent)| Тестовое задание для компании HiTalent| Python, unittests |
 | [SES](https://github.com/Garanash/Simple_economy_simulator) | Реализация простого экономического симулятора |  Python, Pygame, Sqlite3 |
