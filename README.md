@@ -56,6 +56,7 @@
 
 | Название          | Описание                                               | Технологии |
 |-------------------|-------------------------------------------------------|-------------|
+| [simple flask app](https://github.com/Garanash/sfa_for_learning) | Проект сервера на фласке в докере, для статьи на Хабр | Python, flask, docker, html, css |
 | [testcase_for_IPChain](https://github.com/Garanash/testcase-IPCHain) | Тестовое задание для компании IPChain | Python |
 | [testcase for EM](https://github.com/Garanash/testcase-for-Effective-Mobile)| Тестовое задание для компании Effective Mobile| Python, unittests |
 | [testcase for HiTalent](https://github.com/Garanash/testcase-for-Hitalent)| Тестовое задание для компании HiTalent| Python, unittests |
